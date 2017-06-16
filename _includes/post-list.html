@@ -11,7 +11,7 @@
 			<li class="item  item--post">
 				<article class="article  article--post  typeset">
 
-					<h2><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h2>
+					<h2><a href="{{site.baseurl}}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h2>
 					{% include post-meta.html %}
 					{{ page.excerpt | markdownify | truncatewords: 60 }}
 
@@ -41,7 +41,7 @@
 			<li class="item  item--post">
 				<article class="article  article--post  typeset">
 
-					<h5><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h5>
+					<h5><a href="{{site.baseurl}}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h5>
 					{% include post-meta.html %}
 					{{ page.excerpt | markdownify | truncatewords: 60 }}
 
