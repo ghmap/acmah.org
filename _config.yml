@@ -183,6 +183,26 @@ prose:
           placeholder: 'títol de la pàgina'
           value: ""
     _posts:
+      - name: 'lang'
+        field:
+          element: 'select'
+          label: 'Idioma de la pàgina'
+          options:
+            - name: 'Català'
+              value: 'ca'
+            - name: 'Castellà'
+              value: 'es'
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
+      - name: "title"
+        field:
+          element: "text"
+          label: "Títol"
+          placeholder: 'títol de la pàgina'
+          value: ""
       - name: "category"
         field:
           element: 'select'
