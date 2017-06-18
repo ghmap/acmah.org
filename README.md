@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ghmap/acmah.org.svg?branch=master)](https://travis-ci.org/ghmap/acmah.org)
+
 # [Alembic](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
