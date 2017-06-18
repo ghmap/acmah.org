@@ -2,11 +2,9 @@
 	<ul class="list  list--posts">
 		{% for page in paginator.posts %}
 
-		{% comment %}
 		{% if page.lang != site.active_lang %}
 		  {% continue %}
 		{% endif %}
-		{% endcomment %}
 
 			<li class="item  item--post">
 				<article class="article  article--post  typeset">
