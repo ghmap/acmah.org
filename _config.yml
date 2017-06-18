@@ -176,3 +176,19 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "title"
+        field:
+          element: "text"
+          label: "Títol"
+          placeholder: 'títol de la pàgina'
+          value: ""
+    _posts:
+      - name: "category"
+        field:
+          element: 'select'
+          label: 'Categoria'
+          options:
+            - name: 'Activitat'
+              value: 'event'
+            - name: 'Noticies'
+              value: 'news'
