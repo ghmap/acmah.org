@@ -2,7 +2,7 @@
 lang: ca
 category: general
 feature_image: 'https://unsplash.it/1200/400?image=200'
-published: false
+published: true
 title: Prose test
 ---
 ## Estem provant l'editor Prose
