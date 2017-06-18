@@ -19,6 +19,8 @@ exclude:
 - demo/*
 - alembic-jekyll-theme.gemspec
 - raw/*
+- publi.sh
+- script/*
 
 # 2. Installed Gems
 gems:
