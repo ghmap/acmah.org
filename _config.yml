@@ -212,7 +212,7 @@ prose:
               value: 'general'
             - name: 'Activitat'
               value: 'event'
-            - name: 'Noticies'
+            - name: 'Noticia'
               value: 'news'
       - name: "feature_image"
         field:
