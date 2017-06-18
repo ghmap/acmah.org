@@ -93,7 +93,7 @@ baseurl: "/acmah.org"
 github:
   url: https://ghmap.github.io/acmah.org # Site url, also used in jekyll-seo-tag. Automatically overriden by github pages
 repo: "https://github.com/ghmap/acmah.org"
-email: "marc.alcala@gmail.com"
+email: "@gmail.com"
 disqus: "acmah-1"
 avatarurl: "/assets/favicon.ico" # "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
