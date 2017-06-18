@@ -138,6 +138,16 @@ locales:
   latest_posts:
     ca: Últims articles publicats
     es: Últimos articulos publicados
+  category:
+    event:
+      ca: Activitat
+      es: Actividad
+    general:
+      ca: General
+      es: General
+    news:
+      ca: Notícia
+      es: Noticia
 
 prose:
   rooturl: ''
