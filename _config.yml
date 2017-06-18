@@ -161,13 +161,12 @@ prose:
     - publi.sh
     - /blog
   metadata:
-    _posts:
-      - name: 'lang'
-        field:
-          element: 'select'
-          label: 'idioma de la pàgina'
-          options:
-            - name: 'Català'
-              value: 'ca'
-            - name: 'Castellà'
-              value: 'es'
+    - name: 'lang'
+      field:
+        element: 'select'
+        label: 'Idioma de la pàgina'
+        options:
+          - name: 'Català'
+            value: 'ca'
+          - name: 'Castellà'
+            value: 'es'
