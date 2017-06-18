@@ -208,6 +208,8 @@ prose:
           element: 'select'
           label: 'Categoria'
           options:
+            - name: 'General'
+              value: 'general'
             - name: 'Activitat'
               value: 'event'
             - name: 'Noticies'
