@@ -2,9 +2,10 @@
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: 'https://unsplash.it/1300/400?image=1061'
 permalink: /elements/
 lang: ca
+published: false
 ---
 
 # Estic en català
