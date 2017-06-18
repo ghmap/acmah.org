@@ -171,3 +171,8 @@ prose:
               value: 'ca'
             - name: 'Castellà'
               value: 'es'
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
