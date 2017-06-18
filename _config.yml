@@ -88,7 +88,7 @@ encoding: utf-8 # Make sure the encoding is right
 title: "ACMAH" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/acmah-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Som una entitat sense ànim de lucre, amb un projecte associatiu que té com a eix principal el treball amb les famílies que conviuen amb afectats per la malaltia de Huntington." # Site description and default description, also used in jekyll-seo-tag
-url: "https://ghmap.github.io/acmah.org" # Site url, also used in jekyll-seo-tag
+url: "https://ghmap.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/acmah.org"
 github:
   url: https://ghmap.github.io/acmah.org # Site url, also used in jekyll-seo-tag. Automatically overriden by github pages
@@ -138,3 +138,25 @@ locales:
   latest_posts:
     ca: Últims articles publicats
     es: Últimos articulos publicados
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://ghmap.github.io/acmah.org/'
+  relativeLinks: ''
+  media: 'media'
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_sass
+    - /raw
+    - /script
+    - .gitignore
+    - .travis.yml
+    - Gemfile
+    - LICENSE
+    - README.md
+    - _config.yml
+    - alembic-jekyll-theme.gemspec
+    - publi.sh
+    - /blog
