@@ -214,3 +214,14 @@ prose:
               value: 'event'
             - name: 'Noticies'
               value: 'news'
+      - name: "feature_image"
+        field:
+          element: "text"
+          label: "Imatge capçalera"
+          placeholder: 'url a una imatge'
+          value: "https://unsplash.it/1200/400?image=200"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publicat"
+          value: false
