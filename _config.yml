@@ -160,3 +160,13 @@ prose:
     - alembic-jekyll-theme.gemspec
     - publi.sh
     - /blog
+  metadata:
+    name: 'lang'
+    field:
+      element: 'select'
+      label: 'idioma de la pàgina'
+      options:
+        - name: 'Català'
+          value: 'ca'
+        - name: 'Castellà'
+          value: 'es'
