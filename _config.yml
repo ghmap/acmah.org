@@ -140,7 +140,7 @@ locales:
     es: Últimos articulos publicados
 
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://ghmap.github.io/acmah.org/'
   relativeLinks: ''
   media: 'media'
