@@ -18,3 +18,15 @@ Asesoramiento laboral, civil y administrativo.
 
 #### Información  y   orientación  sobre   recursos   existentes
 Actualización de información sobre los recursos existentes.
+
+#### Formación para cuidadores
+Cursos formativos dirigidos a familiares, profesionales y cuidadores.
+
+#### Talleres de rehabilitación y mantenimiento para afectados
+Cada miércoles de 16:30 a 19:30.
+- Terapia logopédica: Mantenimiento de funciones, reeducación de las dificultades en el lenguaje y el habla. Mejorar las alteraciones en la deglución.
+- Estimulación cognitiva: Minimizar, paliar y compensar los déficits de las funciones cognitivas y conductuales. Disminuir el aislamiento social.  Mejorar la comprensión de la enfermedad y sus consecuencias.
+- Fisioterapia: La propiocepción tanto a nivel estático com dinámico. El equilibrio en varias posiciones. La coordinación, la reducción de la base de sustentación. La marcha. La lateralidad. Los giros. Relajación. Capacidad pulmonar, oxigenación...
+
+#### Colaboraciones docentes
+Atendemos solicitudes de institutos, universidades y escuelas profesionales.
