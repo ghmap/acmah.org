@@ -157,7 +157,7 @@ locales:
 
 prose:
   rooturl: ''
-  siteurl: 'http://ghmap.github.io/acmah.org/'
+  siteurl: 'http://malcp.github.io/acmah.org/'
   relativeLinks: ''
   media: 'media'
   ignore:
