@@ -2,11 +2,10 @@
 title: Enlaces
 feature_text: |
   Enlaces útiles
-feature_image: "https://unsplash.it/1300/400?image=924"
+feature_image: "https://unsplash.it/1300/400?image=954"
 permalink: /links/
 lang: es
 ---
-### Enlaces
 #### Hospitales de Barcelona
 
 Hospital Clínic De Barcelona [www.hospitalclinic.org](www.hospitalclinic.org)
