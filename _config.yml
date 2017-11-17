@@ -105,7 +105,7 @@ navigation_header:
   Services: /services/
   News: /agenda/
   #  Element: elements/
-  Blog: /blog/
+  #  Blog: /blog/
 navigation_header_locales:
   Home:
           ca: Inici
