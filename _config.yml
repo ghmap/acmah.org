@@ -141,9 +141,9 @@ locales:
   related_posts:
     ca: Articles relacionats
     es: Articulos relacionados
-  latest_posts:
-    ca: Últims articles publicats
-    es: Últimos articulos publicados
+#  latest_posts:
+#    ca: Últims articles publicats
+#    es: Últimos articulos publicados
   category:
     event:
       ca: Activitat
