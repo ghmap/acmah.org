@@ -104,6 +104,7 @@ navigation_header:
   Home: /
   Services: /services/
   News: /agenda/
+  Links: /links/
   #  Element: elements/
   #  Blog: /blog/
 navigation_header_locales:
@@ -119,6 +120,9 @@ navigation_header_locales:
   Blog:
           ca: Blog
           es: Blog
+  Links:
+          ca: Enllaços
+          es: Enlaces
 
 navigation_footer:
   Created by malcp: https://github.com/malcp
