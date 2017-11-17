@@ -1,9 +1,9 @@
 ---
-title: Noticias
+title: Agenda
 feature_text: |
-  Últimas noticias de la asociacin
+  Actividades organizadas por la asociación
 feature_image: "https://unsplash.it/1300/400?image=1061"
-permalink: /news/
+permalink: /agenda_ES/
 lang: es
 ---
 
