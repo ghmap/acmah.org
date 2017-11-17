@@ -3,7 +3,7 @@ title: Agenda
 feature_text: |
   Actividades organizadas por la asociación
 feature_image: "https://unsplash.it/1300/400?image=1061"
-permalink: /agenda_ES/
+permalink: /agenda/
 lang: es
 ---
 
