@@ -103,7 +103,7 @@ avatarurl: "/assets/favicon.ico" # "https://www.gravatar.com/avatar/6c0377abcf4d
 navigation_header:
   Home: /
   Services: /services/
-  News: /news/
+  News: /agenda/
   #  Element: elements/
   Blog: /blog/
 navigation_header_locales:
@@ -114,8 +114,8 @@ navigation_header_locales:
           ca: Serveis
           es: Servicios
   News:
-          ca: Notícies
-          es: Noticias
+          ca: Agenda
+          es: Agenda
   Blog:
           ca: Blog
           es: Blog
