@@ -10,6 +10,13 @@ lang: ca
 #### Acollida
 Suport, informació i assessorament a les famílies.
 
+#### Activitats
+Organitzem diverses activitats al llarg de l'any, incloent-ne algunes de recurrents:
+- Jornades científiques i tècniques: Actualització d'informació sobre els últims avenços en la malaltia de Huntington.
+- Colònies de respir: Cada estiu, a finals de curs, programem una estada de respir per a malalts i cuidadors.
+- Sortides lúdico-culturals: Excursions i visites per diferents indrets de Catalunya.
+- Festes d'aniversari ACMAH i Nadal: Cada primer diumenge d'octubre celebrem l'aniversari de l'ACMAH. També ens reunim per commemorar les festes de Nadal.
+
 #### Atenció social i psicològica
 Acompanyament i seguiment de les famílies en tot el procés evolutiu de la malaltia.
 
