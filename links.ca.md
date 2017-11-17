@@ -6,7 +6,6 @@ feature_image: "https://unsplash.it/1300/400?image=924"
 permalink: /links/
 lang: ca
 ---
-### Enllaços
 #### Hospitals de Barcelona
 
 Hospital Clínic De Barcelona [www.hospitalclinic.org](www.hospitalclinic.org)
